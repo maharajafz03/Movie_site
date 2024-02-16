@@ -6,6 +6,6 @@ A movie website that displays information about any movie in the world like cast
 
 
 
-# netflix_clone
+
 # Movie_site
 # Movie_site
