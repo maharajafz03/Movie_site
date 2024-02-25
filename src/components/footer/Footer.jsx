@@ -51,7 +51,7 @@ export default function Footer() {
               scale: 1.15,
             }}
             className="w-[3rem] h-[3rem] rounded-xl grid place-items-center bg-black"
-            href="https://github.com/otizgit"
+            href="https://github.com/maharajafz03"
             target="_blank"
           >
             <FontAwesomeIcon
@@ -69,7 +69,7 @@ export default function Footer() {
               scale: 1.15,
             }}
             className="w-[3rem] h-[3rem] rounded-xl grid place-items-center bg-black"
-            href="https://twitter.com/dev_otiz"
+            href="https://twitter.com/Magaraja_"
             target="_blank"
           >
             <FontAwesomeIcon
@@ -87,7 +87,7 @@ export default function Footer() {
               scale: 1.15,
             }}
             className="w-[3rem] h-[3rem] rounded-xl grid place-items-center bg-black"
-            href="https://www.linkedin.com/in/emmanuel-oj/"
+            href="https://www.linkedin.com/in/magaraja1999/"
             target="_blank"
           >
             <FontAwesomeIcon
@@ -105,7 +105,7 @@ export default function Footer() {
               scale: 1.15,
             }}
             className="w-[3rem] h-[3rem] rounded-xl grid place-items-center bg-black"
-            href="https://www.instagram.com/_.otiz._/"
+            href="https://www.instagram.com"
             target="_blank"
           >
             <FontAwesomeIcon
