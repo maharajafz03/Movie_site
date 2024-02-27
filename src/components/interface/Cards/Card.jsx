@@ -14,11 +14,11 @@ export default function Card(props) {
 
   let percentageColor;
   if (ratingPercentage >= 70) {
-    percentageColor = "green";
+    percentageColor = "black";
   } else if (ratingPercentage < 70 && ratingPercentage >= 40) {
-    percentageColor = "yellow";
+    percentageColor = "black";
   } else if (ratingPercentage < 40) {
-    percentageColor = "red";
+    percentageColor = "black";
   }
 
   function toggleSearchTrigger() {
