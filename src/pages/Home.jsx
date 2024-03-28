@@ -6,8 +6,8 @@ import Preloader from "../components/interface/Preloader";
 
 export default function Home() {
   useEffect(() => {
-    window.scrollTo(0, 0);
-    document.title = `CineMate | Home`;
+    window.scrollTo(0, 60);
+    document.title = `Netflix | Home`;
   });
 
   const [movieLoad, setMovieLoad] = useState(false);
